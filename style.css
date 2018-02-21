@@ -1,0 +1,26 @@
+*{
+
+    box-sizing: border-box !important;
+}
+
+.subTitle{
+    font-family: 'Open Sans',
+    sans-serif;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-weight: 300;
+    color: #22A39F;
+    text-align: center;
+    font-size: 46px;
+}
+.navColor{
+    background-color: red;
+}
+
+.test{
+    background-color: #22A39F;
+}
+
+#mainPic{
+    width: 100%;
+}
